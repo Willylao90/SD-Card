@@ -18,6 +18,4 @@
 
 #include "FreeRTOS.h"
 
-
-
 #endif // _PAL_H_
