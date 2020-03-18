@@ -4,5 +4,23 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"freertos.h": "c",
+			"task.h": "c",
+			"projdefs.h": "c",
+			"pal_task.h": "c",
+			"portable.h": "c",
+			"list.h": "c",
+			"portmacro.h": "c",
+			"vector.h": "c",
+			"nvic.h": "c",
+			"common.h": "c",
+			"stddef.h": "c",
+			"syscfg.h": "c",
+			"gpio.h": "c",
+			"memorymap.h": "c",
+			"scb.h": "c"
+		}
+	}
 }
